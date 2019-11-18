@@ -2,6 +2,13 @@
 Changelog
 =========
 
+TBA
+=======
+
+Changes
+-------
+* Removed gfdatasource - feature is built in to Grafana since v5.
+
 0.5.5 (2020-02-17)
 =======
 
